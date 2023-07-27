@@ -2,12 +2,12 @@
 
 #Portfolio Landing Page :page_with_curl:
 
-### [LIVE DEMO](https:/orliluq.github.io/orli-proyect/index.html)
+### [LIVE DEMO](https:/orliluq.github.io/orli-project/index.html)
 
-![img](https://github.com/orliluq/orli-proyect/master/public/images/back.jpg?raw=true)
+![img](https://github.com/orliluq/orli-project/main/public/images/back.jpg?raw=true)
 
 
-![img](https://github.com/orliluq/orli-proyect/master/public/images/web.jpg?raw=true)
+![img](https://github.com/orliluq/orli-project/main/public/images/Web.jpg?raw=true)
 
 # Run Project
 ### 1. Clone the project
@@ -22,4 +22,6 @@ npm start
 ```shell
 npm run build
 ```
+
+
 
