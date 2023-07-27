@@ -1,7 +1,7 @@
-#Portfolio Landing Page :page_with_curl:
+# Portfolio Landing Page :page_with_curl:
 
 
-# Run Project
+## Run Project
 ### 1. Clone the project
 
 ### 2. Run the project
