@@ -7,7 +7,7 @@
     "contactmessage":"I focus on writing clean, scalable and maintainable code, and I work as a team to achieve outstanding results. I am always in constant learning and I like to stay up to date on the latest trends and development tools.",
     "email": "+58 412 2013073",
     "github":"https://github.com/orliluq/",
-    "project":"https://github.com/orliluq/Orli-Project",
+    "project":"https://github.com/Orliluq/Orli-Projects-Landing",
     "address":{
       "city":"Caracas, Venezuela"
     },
@@ -131,7 +131,7 @@
         "title":"Orli Project",
         "category":"A React based resume website",
         "image":"orli-project.jpg",
-        "url":"https://github.com/Orliluq/Orli-Project.git"
+        "url":"https://github.com/Orliluq/Orli-Projects-Landing.git"
       },
       {
         "title":"Portfolio glassmorphism",
