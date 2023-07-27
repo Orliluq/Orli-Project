@@ -1,4 +1,4 @@
-# Portfolio Landing Page :page_with_curl:
+# Portfolio Landing Page
 
 
 ## Run Project
