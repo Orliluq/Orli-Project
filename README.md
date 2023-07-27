@@ -1,6 +1,3 @@
-# Portfolio Landing Page
-
-
 ## Run Project
 ### 1. Clone the project
 
