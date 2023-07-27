@@ -2,7 +2,7 @@
 
 #Portfolio Landing Page :page_with_curl:
 
-### [LIVE DEMO](https:/orliluq.github.io/orli-project/index.html)
+### [LIVE DEMO](https:/orliluq.github.io/orli-project)
 
 ![img](https://github.com/orliluq/orli-project/main/public/images/back.jpg?raw=true)
 
