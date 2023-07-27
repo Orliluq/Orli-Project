@@ -2,17 +2,17 @@
   "main": {
     "name":"Orli Dun Project",
     "description":"I am fullstack web development and admin and I use javascript, react and vue.js to develop pages. This project is a resume template that can be used as a project landing page or resume page",
-    "image":"/images/img.jpg",
+    "image":"img.jpg",
     "bio":"As a web developer, I am passionate about creating high-quality websites and apps that provide a seamless user experience. My goal is to implement innovative online solutions that add value to users and companies. I'm always looking to learn and expand my skill set, and I'm excited to bring my experience to new challenges and opportunities.",
     "contactmessage":"I focus on writing clean, scalable and maintainable code, and I work as a team to achieve outstanding results. I am always in constant learning and I like to stay up to date on the latest trends and development tools.",
     "email": "+58 412 2013073",
     "github":"https://github.com/orliluq/",
-    "project":"https://github.com/orliluq/Orli Proyect",
+    "project":"https://github.com/orliluq/Orli-Project",
     "address":{
-      "city":"(Caracas)",
-      "country":"(Venezuela)"
+      "city":"Caracas, Venezuela"
     },
     "website":"http://linktree.com/orlidevs",
+    "resumedownload":"https://www.linkedin.com/posts/orlibetdungonzalez_full-stack-web-developer-activity-7090419236119990275-0TxV?utm_source=share&utm_medium=member_desktop",
     "social":[
       {
         "name":"twitter",
@@ -31,13 +31,13 @@
       },
       {
         "name":"github",
-        "url":"https://github.com/orliluq/Orli Proyect",
+        "url":"https://github.com/orliluq/",
         "className":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"skills and education",
+    "skillmessage":"Technologies and Frameworks",
     "education":[
       {
         "school":"Soy Henry - Bootcamp Programm",
@@ -112,44 +112,44 @@
       {
         "title":"App PI-VIDEOGAMES",
         "category":"Individual project with the technology and frameworks studied at Henry. Creation of a web app with the theme of Videogames",
-        "image":"/images/portfolio/videogames.jpg",
+        "image":"videogames.jpg",
         "url":"https://github.com/Orliluq/PI-Videogames-main.git"
       },
       {
         "title":"App CITASYNC",
         "category":"Creation of an Appointment CRUD app",
-        "image":"/images/portfolio/citasync.jpg",
+        "image":"citasync.jpg",
         "url":"https://github.com/Orliluq/f1it2-team-10-Frontend.git"
       },
       {
         "title":"App RICK AND MORTY",
         "category":"Creating a Rick and Morty themed web app",
-        "image":"/images/portfolio/Rickandmorty.jpg",
-        "url":"https://orliluq.github.io/Integrador-Rick_and_morty/"
+        "image":"Rickandmorty.jpg",
+        "url":"https://orliluq.github.io/Integrador-Rick_and_morty"
       },
       {
-        "title":"Orli Proyect",
+        "title":"Orli Project",
         "category":"A React based resume website",
-        "image":"/images/portfolio/orli-proyect.jpg",
-        "url":"http://www.timbakerdev.com"
+        "image":"orli-project.jpg",
+        "url":"https://github.com/Orliluq/Orli-Project.git"
       },
       {
         "title":"Portfolio glassmorphism",
         "category":"Here is the example of my different projects made with the technologies learned and with different modern styles (such as glassmorphism or neuromorphism,...).",
-        "image":"/images/portfolio/portfolio-orli.jpg",
-        "url":"https://orliluq.github.io/Proyect-portfolio-glass/"
+        "image":"portfolio-orli.jpg",
+        "url":"https://orliluq.github.io/Proyect-portfolio-glass"
       },
       {
         "title":"Calculadora Básica con React",
         "category":"Basic Calculator using React. Personal project to implement the technologies learned during my training time",
-        "image":"/images/portfolio/calculadora-react.jpg",
-        "url":"https://orliluq.github.io/Calculadora-Basica-React/"
+        "image":"calculadora-react.jpg",
+        "url":"https://orliluq.github.io/Calculadora-Basica-React"
       },
       {
         "title":"Portfolio glassmorphism",
         "category":"First portfolio as a personal project made with the technologies learned and with different modern styles (such as glassmorphism or neuromorphism,...)",
-        "image":"/images/portfolio/images-portfolio.jpg",
-        "url":"https://orliluq.github.io/Glassmorphism-Portfolio/"
+        "image":"images-portfolio.jpg",
+        "url":"https://orliluq.github.io/Glassmorphism-Portfolio"
       }
     ]
   }
