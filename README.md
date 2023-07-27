@@ -1,13 +1,5 @@
-# Orli-Proyect
-
 #Portfolio Landing Page :page_with_curl:
 
-### [LIVE DEMO](https://orliluq.github.io/Orli-Projects-Landing/)
-
-![img](https://github.com/orliluq/orli-project/main/public/images/back.jpg)
-
-
-![img](https://github.com/orliluq/orli-project/main/public/images/Web.jpg)
 
 # Run Project
 ### 1. Clone the project
