@@ -22,9 +22,9 @@ class About extends Component {
           <div className="row">
             <div className="three columns">
               <img
-                className="logo.jpg"
+                className="logo"
                 src={logo}
-                alt="Orli Dun"
+                alt="logo"
               />
             </div>
             <div className="nine columns main-col">
@@ -50,9 +50,9 @@ class About extends Component {
                 </div>
                 <div className="columns download">
                   <p>
-                    <a href={resumeDownload} className="button">
-                      <i className="fa fa-download"></i>Download Resume
-                    </a>
+                  <a href={resumeDownload} className="button">
+                    <i className="fa fa-download"></i>Download Resume
+                  </a>
                   </p>
                 </div>
               </div>
