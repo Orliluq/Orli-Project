@@ -22,9 +22,9 @@ class About extends Component {
           <div className="row">
             <div className="three columns">
               <img
-                className="logo"
-                src={logo}
-                alt="logo"
+                className="orlidev"
+                src={orlidev}
+                alt="Orli Proyect Landing"
               />
             </div>
             <div className="nine columns main-col">
