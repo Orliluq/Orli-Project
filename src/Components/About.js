@@ -6,7 +6,7 @@ class About extends Component {
     if (!this.props.data) return null;
 
     const name = this.props.data.name;
-    const logo = "images/" + this.props.data.image;
+    const orlidev = "images/" + this.props.data.image;
     const bio = this.props.data.bio;
     const street = this.props.data.address.street;
     const city = this.props.data.address.city;
@@ -22,9 +22,9 @@ class About extends Component {
           <div className="row">
             <div className="three columns">
               <img
-                className="orlidev"
+                className="orli-dev"
                 src={orlidev}
-                alt="Orli Proyect Landing"
+                alt="Orli Proyect Dev"
               />
             </div>
             <div className="nine columns main-col">
